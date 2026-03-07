@@ -1,1 +1,2 @@
-alert("hello");
+console.log(typeof null);
+console.log(typeof undefined);
